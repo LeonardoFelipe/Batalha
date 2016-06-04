@@ -97,5 +97,4 @@ int main(int argc, char* args[])
 	else cout << "Os dois perderam!" << endl;
 	return 0;
 
-
 }
